@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at 66 ORIGIN, a design studio (digital and physical experiences) in Paris as a front-end developer
+- 👨‍🎓 I'm also a student @gobelins Paris
+- 🌱 I’m currently learning WebGL (Three.js), shaders (GLSL), animations (CSS, GSAP,..)
+- 📫 How to reach me : @BqnChristelle on Twitter
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christelle-bqn&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=christelle-bqn)](https://git.io/streak-stats)
