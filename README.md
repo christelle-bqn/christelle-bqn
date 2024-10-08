@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning WebGL (Three.js), shaders (GLSL), animations (CSS, GSAP,..)
 - 📫 How to reach me : @BqnChristelle on Twitter
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christelle-bqn&layout=compact)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=christelle-bqn)](https://git.io/streak-stats)
