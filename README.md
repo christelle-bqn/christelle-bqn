@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at 66 ORIGIN, a design studio (digital and physical experiences) in Paris as a front-end developer
 - 👨‍🎓 I'm also a student @gobelins Paris
-- 🌱 I’m currently learning WebGL (Three.js), shaders (GLSL), animations (CSS, GSAP,..)
+- 🌱 I’m currently learning animations (CSS, GSAP,..)
 - 📫 How to reach me : Christelle Boquillion on Linkedin
 
