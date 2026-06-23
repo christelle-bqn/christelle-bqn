@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working at 66 ORIGIN, a design studio (digital and physical experiences) in Paris as a front-end developer<br>👨‍🎓 I'm also a final year student (Expert in Interactive Digital Creation) @gobelins Paris<br>📍 Based in Paris<br>🌱 96'
+🔭 I’m currently working at 66 ORIGIN, a design studio (digital and physical experiences) in Paris as a front-end developer<br>👨‍🎓 @gobelins Paris alumni<br>📍 Based in Paris<br>🌱 96'
 
 
 ## 🌐 Socials:
